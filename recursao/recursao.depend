@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1714149614 source:d:\c\ed1\recursao\list.c
+	"list.h"
+
+1648144281 d:\c\ed1\recursao\list.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1714150412 source:d:\c\ed1\recursao\in.c
+	"list.h"
+	<limits.h>
+
+1714152198 source:d:\c\ed1\recursao\position.c
+	"list.h"
+	<limits.h>
+
+1714172488 source:d:\c\ed1\recursao\merge.c
+	"list.h"
+

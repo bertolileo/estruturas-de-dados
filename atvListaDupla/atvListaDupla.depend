@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663469641 source:d:\c\ed1\atvlistadupla\back.c
+	"list.h"
+
+1649425195 d:\c\ed1\atvlistadupla\list.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1713750910 source:d:\c\ed1\atvlistadupla\list.c
+	"list.h"
+

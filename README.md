@@ -1,0 +1,2 @@
+# Estruturas de dados básicas em C
+Basicamente aqui contém todas as estruturas de dados mais simples e conhecidas implementadas totalmente em C. Além de alguns desafios e testes resolvidos com as mesmas.

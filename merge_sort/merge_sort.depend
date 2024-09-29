@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1652985626 source:d:\c\ed1\merge_sort\utils.c
+	"utils.h"
+
+1652985626 d:\c\ed1\merge_sort\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<limits.h>
+
+1716765834 source:d:\c\ed1\merge_sort\merge-sort.c
+	"utils.h"
+
+1716766320 source:d:\c\ed1\merge_sort\merge-debug.c
+	"utils.h"
+

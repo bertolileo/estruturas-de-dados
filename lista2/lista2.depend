@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1712527799 source:d:\c\ed1\lista2\list.c
+	"list.h"
+
+1711735071 d:\c\ed1\lista2\list.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1712528047 source:d:\c\ed1\lista2\meio_lista.c
+	"list.h"
+
+1711732598 source:d:\c\ed1\lista2\test_queue.c
+	"queue.h"
+
+1711732598 d:\c\ed1\lista2\queue.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1712537093 source:d:\c\ed1\lista2\queue.c
+	"queue.h"
+

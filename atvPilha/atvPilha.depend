@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1693157195 source:d:\c\atvpilha\stack.c
+	"stack.h"
+
+1647351068 d:\c\atvpilha\stack.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<string.h>
+
+1711163122 source:d:\c\atvpilha\elimina-par.c
+	"stack.h"
+
+1711164201 source:d:\c\atvpilha\parser.c
+	"stack.h"
+
+1711166480 source:d:\c\atvpilha\polish.c
+	"stack.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1711175149 source:d:\c\ed1\atvfila\queue.c
+	"queue.h"
+
+1646909593 d:\c\ed1\atvfila\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1711175133 source:d:\c\ed1\atvfila\par_impar.c
+	"queue.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1711256065 source:d:\c\ed1\atvfila\jackpot.c
+	"queue.h"
+	<time.h>
+

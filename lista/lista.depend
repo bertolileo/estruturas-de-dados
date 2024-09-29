@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1711926334 source:d:\c\ed1\lista\list.c
+	"list.h"
+
+1693680126 d:\c\ed1\lista\list.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1711925601 source:d:\c\ed1\lista\sum.c
+	"list.h"
+
+1711932887 source:d:\c\ed1\lista\merge.c
+	"list.h"
+

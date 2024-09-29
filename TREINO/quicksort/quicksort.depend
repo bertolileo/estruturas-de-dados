@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666528293 source:d:\c\ed1\treino\quicksort\utils.c
+	"utils.h"
+
+1666528199 d:\c\ed1\treino\quicksort\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1719233896 source:d:\c\ed1\treino\quicksort\quick-sort.c
+	"utils.h"
+

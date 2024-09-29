@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1651756746 source:d:\c\ed1\treino\1_ord\ord\utils.c
+	"utils.h"
+
+1651756747 d:\c\ed1\treino\1_ord\ord\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1718251341 source:d:\c\ed1\treino\1_ord\ord\bubble.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1718252121 source:d:\c\ed1\treino\1_ord\ord\selection.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1718253392 source:d:\c\ed1\treino\1_ord\ord\insertion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

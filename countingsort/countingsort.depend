@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653832609 source:d:\c\ed1\countingsort\utils.c
+	"utils.h"
+
+1653832609 d:\c\ed1\countingsort\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+

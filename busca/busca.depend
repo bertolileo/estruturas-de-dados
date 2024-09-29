@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1654611206 source:d:\c\ed1\busca\utils.c
+	"utils.h"
+
+1654611213 d:\c\ed1\busca\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1717988063 source:d:\c\ed1\busca\missing.c
+	"utils.h"
+
